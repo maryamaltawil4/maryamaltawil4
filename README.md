@@ -1,8 +1,5 @@
 <h1 align="center">Hi! I am Maryam 👋</h1>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/maryamaltawil4/maryamaltawil4/main/assets/banner.png" alt="banner" />
-</p>
 
 ---
 
@@ -39,13 +36,6 @@
 
 ---
 
-### 🌍 Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maryamaltawil4&color=brightgreen" alt="profile views"/>
-</p>
-
----
 
 ### 🤝 Let's Connect
 
