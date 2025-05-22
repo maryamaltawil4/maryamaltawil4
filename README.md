@@ -12,6 +12,12 @@
 - 🌱 Always exploring new tech stacks and improving code quality
 
 ---
+### 🌐 Live Projects
+
+- 🔗 [Qadi Tech – Company Website](https://www.qadi-tech.com/home)
+- 🔗 [La Home – E-Commerce Platform](https://la-home.co.il/main-page)
+- 🔗 [Dahab Restaurant – Online Menu](https://dahab-restaurant.com/menu)
+- 🔗 [Driver Performance Dashboard](https://lightseagreen-frog-201723.hostingersite.com/drivers)
 
 ### 📊 Quick Overview
 - 🚀 Total Projects (including private): **15+**
