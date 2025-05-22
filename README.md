@@ -14,9 +14,13 @@
 ---
 
 ### 📊 Quick Overview
+- 🚀 Total Projects (including private): **15+**
+- 💼 Main Frameworks: Angular, React, Node.js, Express
+- 🧠 Languages Used: JavaScript, TypeScript, HTML, CSS, Java, Python
+- 🏥 Current Project: Hospital Real Estate ERP Portal
+- 📦 Backend APIs Developed: 30+ endpoints
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maryamaltawil4&show_icons=true&theme=tokyonight" alt="Maryam's GitHub stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryamaltawil4&layout=compact&theme=tokyonight" alt="Most Used Languages"/>
 </p>
 
